@@ -6,6 +6,7 @@ example() {
   echo "* - $*"
   echo "@ - $@"
   echo "# - $#"
+  echo "3 - $3"
 }
 
 #echo "Following values from script"
