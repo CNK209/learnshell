@@ -19,6 +19,6 @@ echo "# - $#"
 
 
 
-example $*
+#example $*
 
 exit 1
